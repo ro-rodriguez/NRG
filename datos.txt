@@ -1,0 +1,7 @@
+- Alumna: Elsa Rocío Rodríguez Castro
+- Docente: Omar Toyos
+- Carrera: Diseño y Programación Web
+- Turno: Noche
+- Comisión: 2A
+- E-mail: elsa.rodriguez@davinci.edu.ar
+- Enlace al sitio: https://chio-rodriguez.000webhostapp.com/parcial_2_idm/index.html
